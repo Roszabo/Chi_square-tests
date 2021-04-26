@@ -24,7 +24,7 @@ InteractiveShell.ast_node_interactivity = "all"
 # In[2]:
 
 
-dataset = pd.read_csv(r'C:\Users\rol3x\MAIN_PATH\Bank-additional-full.csv', delimiter = ";")
+dataset = pd.read_csv(Bank-additional-full.csv', delimiter = ";")
 dataset.shape
 dataset.head(10)
 
